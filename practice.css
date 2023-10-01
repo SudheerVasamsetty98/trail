@@ -1,0 +1,71 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fiena31fakUwFHemR2Aa8OAAiNhdaIy-9A&usqp=CAU");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pro{
+    color: bisque;
+    text-align: center;
+
+}
+.pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.about{
+    text-align: center;
+    color: rgb(230, 214, 230);
+}
+.family{
+    text-align: center;
+    color: rgb(230, 214, 230);
+}
+.personality{
+    text-align: center;
+    color: rgb(230, 214, 230);
+}
+.hobi{
+    text-align: center;
+    color: rgb(230, 214, 230);
+}
+.abt{
+    color: rgba(255, 217, 0, 0.699);
+    margin: 15px;
+}
+.link{
+    width: 12px;
+}
+.face{
+    width: 12px;
+}
+.cnt{
+    color: rgba(255, 217, 0, 0.699);
+    text-align: center;
+    margin: 10px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    font-size: 18px;
+    color: violet;
+}
+.text{
+    color: rgb(225, 235, 225);
+}
+.hed{
+    color: rgb(255, 187, 0);
+}
